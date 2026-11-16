@@ -1,2 +1,6 @@
 .claude/
 .DS_Store
+ios/build/
+xcuserdata/
+*.xcuserstate
+ios/DailyExpenses.xcodeproj/project.xcworkspace/xcuserdata/
