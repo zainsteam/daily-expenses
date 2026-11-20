@@ -12,7 +12,7 @@ Requires iOS 17 or later. Built with Xcode 26.1.
 2. Xcode > Settings > Accounts > `+` > Apple ID, and sign in.
 3. Click the **DailyExpenses** project, then the **DailyExpenses** target > **Signing & Capabilities**.
    Keep "Automatically manage signing" on and set **Team** to your name (Personal Team).
-   If Xcode says the bundle identifier is taken, change `com.zainsteam.DailyExpenses` to something unique.
+   If Xcode says the bundle identifier is taken, change `com.zainsteam.expenses.ledger` to something unique.
 4. Plug the iPhone in with a cable and tap **Trust** on the phone.
 5. On the iPhone: Settings > Privacy & Security > **Developer Mode** > on, then restart when asked.
 6. In Xcode, pick your iPhone at the top of the window and press **Run** (⌘R).
